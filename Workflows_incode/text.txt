@@ -1,0 +1,397 @@
+PS C:\Users\shivam\OneDrive\Desktop\Dep\Workflows_incode> python .\main.py
+
+=== LinkedIn Content Posting Workflow ===
+
+== CONTENT IDEA INPUT ==
+What topic would you like to post about? Ai agents how they can help developers
+Who is your target audience? student and Software engineers
+
+== CONTENT GENERATION ==
+Generating content based on your topic and audience...
+
+Team Response:
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                      ┃
+┃                                                                                                                                      ┃
+┃     Create a professional LinkedIn post about Ai agents how they can help developers for student and Software engineers.             ┃
+┃                                                                                                                                      ┃
+┃     Requirements:                                                                                                                    ┃
+┃     1. Research current trends and data about Ai agents how they can help developers                                                 ┃
+┃     2. Create an attention-grabbing headline                                                                                         ┃
+┃     3. Write an engaging introduction that hooks the reader                                                                          ┃
+┃     4. Develop 3-5 key points with supporting evidence                                                                               ┃
+┃     5. Include a clear call-to-action                                                                                                ┃
+┃     6. Add 3 relevant hashtags                                                                                                       ┃
+┃                                                                                                                                      ┃
+┃     The post should be informative, professional, and optimized for LinkedIn's algorithm.                                            ┃
+┃                                                                                                                                      ┃
+┃                                                                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Content Generator Tool Calls ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                      ┃
+┃ • duckduckgo_search(query=AI agents help students software engineers, max_results=5)                                                 ┃
+┃                                                                                                                                      ┃
+┃ • duckduckgo_search(query=AI agents in software development, max_results=5)                                                          ┃
+┃                                                                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Content Generator Response ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                      ┃
+┃ Unlocking Innovation: How AI Agents are Transforming the Future for Aspiring Developers and Experienced Engineers                    ┃
+┃                                                                                                                                      ┃
+┃ In the rapidly evolving world of technology, the fusion of Artificial Intelligence (AI) with software development is not just a      ┃
+┃ trend—it's a revolution. AI agents are reshaping how developers, particularly students and seasoned software engineers, approach     ┃
+┃ coding, project management, and problem-solving. Here's how AI is making a significant impact:                                       ┃
+┃                                                                                                                                      ┃
+┃ 1. Boosting Productivity and Efficiency:                                                                                             ┃
+┃                                                                                                                                      ┃
+┃  • According to Composio, AI agents can enhance developers' productivity by automating repetitive tasks and streamlining workflows.  ┃
+┃    These agents can manage code integration with version control systems like Git, allowing developers to focus on innovation rather ┃
+┃    than mundane chores.                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃ 2. Elevating Code Quality:                                                                                                           ┃
+┃                                                                                                                                      ┃
+┃  • AI-powered tools are pushing beyond mere code suggestions. As Flatlogic highlights, they assist in debugging, optimizing code,    ┃
+┃    and even generating components, ensuring higher quality software development with fewer manual errors.                            ┃
+┃                                                                                                                                      ┃
+┃ 3. Empowering Students:                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃  • AI agents offer a dynamic learning environment for students, providing real-time feedback and personalized help, much like a      ┃
+┃    digital mentor. Courses like those offered on Coursera are designed to sharpen students' ability to harness AI efficiently,       ┃
+┃    preparing the next generation of developers.                                                                                      ┃
+┃                                                                                                                                      ┃
+┃ 4. Real-World Application:                                                                                                           ┃
+┃                                                                                                                                      ┃
+┃  • As noted by Prismetric, AI agents are not just confined to laboratories or theoretical applications. They are actively used in    ┃
+┃    real projects, allowing students and engineers alike to see the tangible benefits of AI in solving complex problems and driving   ┃
+┃    innovation.                                                                                                                       ┃
+┃                                                                                                                                      ┃
+┃ 5. Future of Software Development:                                                                                                   ┃
+┃                                                                                                                                      ┃
+┃  • With AI agent technology advancing rapidly, tools that automate everything from full-stack development to AI-driven debugging are ┃
+┃    becoming essential. This evolution facilitates faster software development cycles and more robust end products, as demonstrated   ┃
+┃    in a comprehensive list of top AI agents by Index.dev.                                                                            ┃
+┃                                                                                                                                      ┃
+┃ AI agents are far more than just virtual assistants in the realm of software development. They represent a paradigm shift that       ┃
+┃ empowers both fledgling and veteran developers to push boundaries and achieve greater efficiency. As AI continues to permeate the    ┃
+┃ development process, the collaboration between human ingenuity and artificial intelligence promises a brighter, more innovative      ┃
+┃ future.                                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃ #ArtificialIntelligence #SoftwareDevelopment #Innovation                                                                             ┃
+┃                                                                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Content Generator Tool Calls ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                      ┃
+┃ • duckduckgo_search(query=AI agents help students software engineers, max_results=5)                                                 ┃
+┃                                                                                                                                      ┃
+┃ • duckduckgo_search(query=AI agents in software development, max_results=5)                                                          ┃
+┃                                                                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Content Generator Response ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                      ┃
+┃ Unlocking Innovation: How AI Agents are Transforming the Future for Aspiring Developers and Experienced Engineers                    ┃
+┃                                                                                                                                      ┃
+┃ In the rapidly evolving world of technology, the fusion of Artificial Intelligence (AI) with software development is not just a      ┃
+┃ trend—it's a revolution. AI agents are reshaping how developers, particularly students and seasoned software engineers, approach     ┃
+┃ coding, project management, and problem-solving. Here's how AI is making a significant impact:                                       ┃
+┃                                                                                                                                      ┃
+┃ 1. Boosting Productivity and Efficiency:                                                                                             ┃
+┃                                                                                                                                      ┃
+┃  • According to Composio, AI agents can enhance developers' productivity by automating repetitive tasks and streamlining workflows.  ┃
+┃    These agents can manage code integration with version control systems like Git, allowing developers to focus on innovation rather ┃
+┃    than mundane chores.                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃ 2. Elevating Code Quality:                                                                                                           ┃
+┃                                                                                                                                      ┃
+┃  • AI-powered tools are pushing beyond mere code suggestions. As Flatlogic highlights, they assist in debugging, optimizing code,    ┃
+┃    and even generating components, ensuring higher quality software development with fewer manual errors.                            ┃
+┃                                                                                                                                      ┃
+┃ 3. Empowering Students:                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃  • AI agents offer a dynamic learning environment for students, providing real-time feedback and personalized help, much like a      ┃
+┃    digital mentor. Courses like those offered on Coursera are designed to sharpen students' ability to harness AI efficiently,       ┃
+┃    preparing the next generation of developers.                                                                                      ┃
+┃                                                                                                                                      ┃
+┃ 4. Real-World Application:                                                                                                           ┃
+┃                                                                                                                                      ┃
+┃  • As noted by Prismetric, AI agents are not just confined to laboratories or theoretical applications. They are actively used in    ┃
+┃    real projects, allowing students and engineers alike to see the tangible benefits of AI in solving complex problems and driving   ┃
+┃    innovation.                                                                                                                       ┃
+┃                                                                                                                                      ┃
+┃ 5. Future of Software Development:                                                                                                   ┃
+┃                                                                                                                                      ┃
+┃  • With AI agent technology advancing rapidly, tools that automate everything from full-stack development to AI-driven debugging are ┃
+┃    becoming essential. This evolution facilitates faster software development cycles and more robust end products, as demonstrated   ┃
+┃    in a comprehensive list of top AI agents by Index.dev.                                                                            ┃
+┃                                                                                                                                      ┃
+┃ AI agents are far more than just virtual assistants in the realm of software development. They represent a paradigm shift that       ┃
+┃ empowers both fledgling and veteran developers to push boundaries and achieve greater efficiency. As AI continues to permeate the    ┃
+┃ development process, the collaboration between human ingenuity and artificial intelligence promises a brighter, more innovative      ┃
+┃ future.                                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃ Call to Action:                                                                                                                      ┃
+┃ Join the revolution and empower your development journey with AI agents. Whether you're a student eager to learn or an engineer      ┃
+┃ looking to boost productivity, the opportunities and tools available today can significantly enhance your skills and projects.       ┃
+┃                                                                                                                                      ┃
+┃ #ArtificialIntelligence #SoftwareDevelopment #Innovation                                                                             ┃
+┃                                                                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Team Tool Calls ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                      ┃
+┃ • transfer_task_to_member(agent_name=Content Generator, task_description=Research current trends and data on                         ┃
+┃   how AI agents help developers, focusing on students and software engineers. Create an attention-grabbing                           ┃
+┃   headline., expected_output=A research summary about AI agents aiding developers with a compelling headline.)                       ┃
+┃                                                                                                                                      ┃
+┃ • transfer_task_to_member(agent_name=Content Generator, task_description=Write an engaging introduction and                          ┃
+┃   develop 3-5 key points with supporting evidence on how AI agents assist developers, especially students and                        ┃
+┃   software engineers. Include a clear call-to-action and 3 relevant hashtags., expected_output=A draft of the                        ┃
+┃   LinkedIn post including introduction, key points with evidence, call-to-action, and hashtags.)                                     ┃
+┃                                                                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (41.9s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                      ┃
+┃ Here's a professional LinkedIn post that meets your requirements:                                                                    ┃
+┃                                                                                                                                      ┃
+┃ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃ Unlocking Innovation: How AI Agents are Transforming the Future for Aspiring Developers and Experienced Engineers                    ┃
+┃                                                                                                                                      ┃
+┃ In the rapidly evolving world of technology, the fusion of Artificial Intelligence (AI) with software development is not just a      ┃
+┃ trend—it's a revolution. AI agents are reshaping how developers, particularly students and seasoned software engineers, approach     ┃
+┃ coding, project management, and problem-solving. Here's how AI is making a significant impact:                                       ┃
+┃                                                                                                                                      ┃
+┃ 1. Boosting Productivity and Efficiency:                                                                                             ┃
+┃                                                                                                                                      ┃
+┃  • According to Composio, AI agents can enhance developers' productivity by automating repetitive tasks and streamlining workflows.  ┃
+┃    These agents can manage code integration with version control systems like Git, allowing developers to focus on innovation rather ┃
+┃    than mundane chores.                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃ 2. Elevating Code Quality:                                                                                                           ┃
+┃                                                                                                                                      ┃
+┃  • AI-powered tools are pushing beyond mere code suggestions. As Flatlogic highlights, they assist in debugging, optimizing code,    ┃
+┃    and even generating components, ensuring higher quality software development with fewer manual errors.                            ┃
+┃                                                                                                                                      ┃
+┃ 3. Empowering Students:                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃  • AI agents offer a dynamic learning environment for students, providing real-time feedback and personalized help, much like a      ┃
+┃    digital mentor. Courses like those offered on Coursera are designed to sharpen students' ability to harness AI efficiently,       ┃
+┃    preparing the next generation of developers.                                                                                      ┃
+┃                                                                                                                                      ┃
+┃ 4. Real-World Application:                                                                                                           ┃
+┃                                                                                                                                      ┃
+┃  • As noted by Prismetric, AI agents are not just confined to laboratories or theoretical applications. They are actively used in    ┃
+┃    real projects, allowing students and engineers alike to see the tangible benefits of AI in solving complex problems and driving   ┃
+┃    innovation.                                                                                                                       ┃
+┃                                                                                                                                      ┃
+┃ 5. Future of Software Development:                                                                                                   ┃
+┃                                                                                                                                      ┃
+┃  • With AI agent technology advancing rapidly, tools that automate everything from full-stack development to AI-driven debugging are ┃
+┃    becoming essential. This evolution facilitates faster software development cycles and more robust end products, as demonstrated   ┃
+┃    in a comprehensive list of top AI agents by Index.dev.                                                                            ┃
+┃                                                                                                                                      ┃
+┃ AI agents are far more than just virtual assistants in the realm of software development. They represent a paradigm shift that       ┃
+┃ empowers both fledgling and veteran developers to push boundaries and achieve greater efficiency. As AI continues to permeate the    ┃
+┃ development process, the collaboration between human ingenuity and artificial intelligence promises a brighter, more innovative      ┃
+┃ future.                                                                                                                              ┃
+┃                                                                                                                                      ┃
+┃ Call to Action: Join the revolution and empower your development journey with AI agents. Whether you're a student eager to learn or  ┃
+┃ an engineer looking to boost productivity, the opportunities and tools available today can significantly enhance your skills and     ┃
+┃ projects.                                                                                                                            ┃
+┃                                                                                                                                      ┃
+┃ #ArtificialIntelligence #SoftwareDevelopment #Innovation                                                                             ┃
+┃                                                                                                                                      ┃
+┃ ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃ Feel free to post this on LinkedIn, and let me know if you need any more adjustments!                                                ┃
+┃                                                                                                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+== CONTENT REVIEW ==
+Is this content good? (yes/no): yes
+
+== CONTENT REFINEMENT ==
+Refining and enhancing your content...
+
+Refined Content:
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                                                                       ┃
+┃                                                                                                                                                                                       ┃
+┃     Take the LinkedIn post about Ai agents how they can help developers for student and Software engineers and refine it further.                                                     ┃
+┃                                                                                                                                                                                       ┃
+┃     Refinement Requirements:                                                                                                                                                          ┃
+┃     1. Improve the headline to make it more attention-grabbing                                                                                                                        ┃
+┃     2. Enhance the first two sentences (they appear in LinkedIn feed preview)                                                                                                         ┃
+┃     3. Optimize structure with appropriate spacing and formatting                                                                                                                     ┃
+┃     4. Add strategic emojis if appropriate                                                                                                                                            ┃
+┃     5. Strengthen the call-to-action                                                                                                                                                  ┃
+┃     6. Review and improve the hashtags for better reach                                                                                                                               ┃
+┃                                                                                                                                                                                       ┃
+┃                                                                                                                                                                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Content Refiner Response ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                                                                       ┃
+┃                                 Unlocking Innovation: How AI Agents are Transforming the Future for Aspiring Developers and Experienced Engineers 🚀                                  ┃
+┃                                                                                                                                                                                       ┃
+┃ In the rapidly evolving world of technology, the fusion of Artificial Intelligence (AI) with software development is more than a trend—it's a revolution. AI agents are reshaping how ┃
+┃ developers, especially students and seasoned engineers, tackle coding, project management, and problem-solving. Here's how AI is making a profound impact:                            ┃
+┃                                                                                                                                                                                       ┃
+┃ 1. Boosting Productivity and Efficiency:                                                                                                                                              ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents can dramatically enhance developer productivity by automating repetitive tasks and streamlining workflows. According to Composio, these agents manage code integration   ┃
+┃    with systems like Git, freeing developers to focus on innovation.                                                                                                                  ┃
+┃                                                                                                                                                                                       ┃
+┃ 2. Elevating Code Quality:                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃  • Beyond code suggestions, AI-driven tools assist in debugging, code optimization, and even component generation. Flatlogic reports that these advancements lead to higher quality   ┃
+┃    software with fewer manual errors.                                                                                                                                                 ┃
+┃                                                                                                                                                                                       ┃
+┃ 3. Empowering Students:                                                                                                                                                               ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents provide a dynamic learning environment with real-time feedback and personalized mentorship—akin to having a digital tutor. Coursera offers courses that prepare students ┃
+┃    to harness AI effectively, shaping the next generation of developers.                                                                                                              ┃
+┃                                                                                                                                                                                       ┃
+┃ 4. Real-World Application:                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents are actively used in live projects, not just theoretical studies. This allows both students and engineers to witness firsthand the tangible benefits of AI in solving    ┃
+┃    complex challenges, as noted by Prismetric.                                                                                                                                        ┃
+┃                                                                                                                                                                                       ┃
+┃ 5. Future of Software Development:                                                                                                                                                    ┃
+┃                                                                                                                                                                                       ┃
+┃  • With the fast-paced advancement of AI technology, automation tools for full-stack development and AI-driven debugging are becoming essential. This evolution supports faster       ┃
+┃    software cycles and more robust products, as showcased in this list by Index.dev.                                                                                                  ┃
+┃                                                                                                                                                                                       ┃
+┃ AI agents transcend the role of virtual assistants in software development. They symbolize a paradigm shift that empowers newcomers and veterans alike to push boundaries and achieve ┃
+┃ greater efficiency. As AI continuously integrates into the development process, the partnership between human creativity and artificial intelligence promises a brighter, innovative  ┃
+┃ future. 🌟                                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃ Call to Action:                                                                                                                                                                       ┃
+┃ Join the AI evolution and amplify your career as a developer. Whether you're a student eager to learn or an engineer aiming to boost productivity, embrace the transformative         ┃
+┃ opportunities offered by AI agents.                                                                                                                                                   ┃
+┃                                                                                                                                                                                       ┃
+┃ #ArtificialIntelligence #SoftwareDevelopment #Innovation #AIRevolution #FutureTech                                                                                                    ┃
+┃                                                                                                                                                                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Team Tool Calls ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                                                                       ┃
+┃ • transfer_task_to_member(agent_name=Content Refiner, task_description=Refine the LinkedIn post about AI                                                                              ┃
+┃   agents and developers, focusing on students and software engineers. Improve the headline, enhance the first                                                                         ┃
+┃   two sentences, optimize structure and formatting, add strategic emojis, strengthen the call-to-action, and                                                                          ┃
+┃   review hashtags for better reach., expected_output=A refined LinkedIn post with an improved headline,                                                                               ┃
+┃   enhanced initial sentences, optimized formatting, added emojis, strengthened call-to-action, and improved                                                                           ┃
+┃   hashtags.)                                                                                                                                                                          ┃
+┃                                                                                                                                                                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (32.7s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                                                                       ┃
+┃ Here is the refined LinkedIn post with all the enhancements:                                                                                                                          ┃
+┃                                                                                                                                                                                       ┃
+┃ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃                                             Transform Your Development Journey: Embrace AI Agents for Unmatched Growth and Innovation 🚀                                              ┃
+┃                                                                                                                                                                                       ┃
+┃ In the ever-changing landscape of technology, the fusion of Artificial Intelligence (AI) with software development is more than a trend—it's a groundbreaking shift. AI agents are    ┃
+┃ redefining how developers, especially students and seasoned engineers, tackle coding, project management, and problem-solving. Here's how AI is making a profound impact:             ┃
+┃                                                                                                                                                                                       ┃
+┃ 1. Boosting Productivity and Efficiency:                                                                                                                                              ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents can dramatically enhance developer productivity by automating repetitive tasks and streamlining workflows. According to Composio, these agents manage code integration   ┃
+┃    with systems like Git, freeing developers to focus on innovation.                                                                                                                  ┃
+┃                                                                                                                                                                                       ┃
+┃ 2. Elevating Code Quality:                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃  • Beyond code suggestions, AI-driven tools assist in debugging, code optimization, and even component generation. Flatlogic reports that these advancements lead to higher quality   ┃
+┃    software with fewer manual errors.                                                                                                                                                 ┃
+┃                                                                                                                                                                                       ┃
+┃ 3. Empowering Students:                                                                                                                                                               ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents provide a dynamic learning environment with real-time feedback and personalized mentorship—akin to having a digital tutor. Coursera offers courses that prepare students ┃
+┃    to harness AI effectively, shaping the next generation of developers.                                                                                                              ┃
+┃                                                                                                                                                                                       ┃
+┃ 4. Real-World Application:                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents are actively used in live projects, not just theoretical studies. This allows both students and engineers to witness firsthand the tangible benefits of AI in solving    ┃
+┃    complex challenges, as noted by Prismetric.                                                                                                                                        ┃
+┃                                                                                                                                                                                       ┃
+┃ 5. Future of Software Development:                                                                                                                                                    ┃
+┃                                                                                                                                                                                       ┃
+┃  • With the fast-paced advancement of AI technology, automation tools for full-stack development and AI-driven debugging are becoming essential. This evolution supports faster       ┃
+┃    software cycles and more robust products, as showcased in this list by Index.dev.                                                                                                  ┃
+┃                                                                                                                                                                                       ┃
+┃ AI agents transcend the role of virtual assistants in software development. They symbolize a paradigm shift that empowers newcomers and veterans alike to push boundaries and achieve ┃
+┃ greater efficiency. As AI continuously integrates into the development process, the partnership between human creativity and artificial intelligence promises a brighter, innovative  ┃
+┃ future. 🌟                                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃ Call to Action:                                                                                                                                                                       ┃
+┃ Join the AI evolution and amplify your career as a developer. Whether you're a student eager to learn or an engineer aiming to boost productivity, embrace the transformative         ┃
+┃ opportunities offered by AI agents.                                                                                                                                                   ┃
+┃                                                                                                                                                                                       ┃
+┃ #ArtificialIntelligence #SoftwareDevelopment #Innovation #AIRevolution #FutureTech                                                                                                    ┃
+┃                                                                                                                                                                                       ┃
+┃ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃ Feel free to post this on LinkedIn, and reach out if you need further assistance!                                                                                                     ┃
+┃                                                                                                                                                                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+== FINAL APPROVAL ==
+Do you approve this content for posting? (yes/no): yes
+
+== POST TO LINKEDIN ==
+Preparing your post for LinkedIn...
+
+Your post is ready to be published to LinkedIn:
+==================================================
+┏━ Message ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                                                                       ┃
+┃ Please provide the complete final version of the LinkedIn post in a clean, ready-to-publish format.                                                                                   ┃
+┃                                                                                                                                                                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━ Response (7.7s) ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                                                                                                                                       ┃
+┃ Here's the complete and refined LinkedIn post in a clean, ready-to-publish format:                                                                                                    ┃
+┃                                                                                                                                                                                       ┃
+┃ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃                                             Transform Your Development Journey: Embrace AI Agents for Unmatched Growth and Innovation 🚀                                              ┃
+┃                                                                                                                                                                                       ┃
+┃ In the ever-changing landscape of technology, the fusion of Artificial Intelligence (AI) with software development is more than a trend—it's a groundbreaking shift. AI agents are    ┃
+┃ redefining how developers, especially students and seasoned engineers, tackle coding, project management, and problem-solving. Here's how AI is making a profound impact:             ┃
+┃                                                                                                                                                                                       ┃
+┃ 1. Boosting Productivity and Efficiency:                                                                                                                                              ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents can dramatically enhance developer productivity by automating repetitive tasks and streamlining workflows. According to Composio, these agents manage code integration   ┃
+┃    with systems like Git, freeing developers to focus on innovation.                                                                                                                  ┃
+┃                                                                                                                                                                                       ┃
+┃ 2. Elevating Code Quality:                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃  • Beyond code suggestions, AI-driven tools assist in debugging, code optimization, and even component generation. Flatlogic reports that these advancements lead to higher quality   ┃
+┃    software with fewer manual errors.                                                                                                                                                 ┃
+┃                                                                                                                                                                                       ┃
+┃ 3. Empowering Students:                                                                                                                                                               ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents provide a dynamic learning environment with real-time feedback and personalized mentorship—akin to having a digital tutor. Coursera offers courses that prepare students ┃
+┃    to harness AI effectively, shaping the next generation of developers.                                                                                                              ┃
+┃                                                                                                                                                                                       ┃
+┃ 4. Real-World Application:                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃  • AI agents are actively used in live projects, not just theoretical studies. This allows both students and engineers to witness firsthand the tangible benefits of AI in solving    ┃
+┃    complex challenges, as noted by Prismetric.                                                                                                                                        ┃
+┃                                                                                                                                                                                       ┃
+┃ 5. Future of Software Development:                                                                                                                                                    ┃
+┃                                                                                                                                                                                       ┃
+┃  • With the fast-paced advancement of AI technology, automation tools for full-stack development and AI-driven debugging are becoming essential. This evolution supports faster       ┃
+┃    software cycles and more robust products, as showcased in this list by Index.dev.                                                                                                  ┃
+┃                                                                                                                                                                                       ┃
+┃ AI agents transcend the role of virtual assistants in software development. They symbolize a paradigm shift that empowers newcomers and veterans alike to push boundaries and achieve ┃
+┃ greater efficiency. As AI continuously integrates into the development process, the partnership between human creativity and artificial intelligence promises a brighter, innovative  ┃
+┃ future. 🌟                                                                                                                                                                            ┃
+┃                                                                                                                                                                                       ┃
+┃ Call to Action:                                                                                                                                                                       ┃
+┃ Join the AI evolution and amplify your career as a developer. Whether you're a student eager to learn or an engineer aiming to boost productivity, embrace the transformative         ┃
+┃ opportunities offered by AI agents.                                                                                                                                                   ┃
+┃                                                                                                                                                                                       ┃
+┃ #ArtificialIntelligence #SoftwareDevelopment #Innovation #AIRevolution #FutureTech                                                                                                    ┃
+┃                                                                                                                                                                                       ┃
+┃ ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── ┃
+┃ This post is formatted and ready for publication on LinkedIn. Feel free to share it with your network!                                                                                ┃
+┃                                                                                                                                                                                       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+==================================================
+
+In a real implementation, this would be posted to LinkedIn using their API.
+
+Workflow completed successfully!
